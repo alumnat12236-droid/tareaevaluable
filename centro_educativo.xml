@@ -2,7 +2,7 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://TUUSUARIO.github.io/TUREPO/centro_educativo.xml"
+    <atom:link href="https://alumnat12236-droid.github.io/tareaevaluable/centro_educativo.xml"
               rel="self"
               type="application/rss+xml" />
     
@@ -10,7 +10,7 @@
 
     <!--Noticia principal-->
     <title>Noticias del Centro</title>
-    <link>https://TUUSUARIO.github.io/TUREPO/</link>
+    <link>https://alumnat12236-droid.github.io/tareaevaluable/</link>
     <description>Avisos y noticias del centro educativo</description>
 
     <lastBuildDate>Sun, 15 Feb 2026 10:15:00 GMT</lastBuildDate>
@@ -18,20 +18,21 @@
     <!--noticia 1-->
     <item>
       <title>Noticia 1</title>
-      <link>https://TUUSUARIO.github.io/TUREPO/noticia1.html</link>
+      <link>https://alumnat12236-droid.github.io/tareaevaluable/noticia1.html</link>
       <description>Descripción de la noticia 1</description>
       <pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
-      <guid>https://TUUSUARIO.github.io/TUREPO/noticia1.html</guid>
+      <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia1.html</guid>
     </item>
 
     <!--Noticia 2-->
     <item>
       <title>Noticia 2</title>
-      <link>https://TUUSUARIO.github.io/TUREPO/noticia2.html</link>
+      <link>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</link>
       <description>Descripción de la noticia 2</description>
       <pubDate>Sun, 15 Feb 2026 09:30:00 GMT</pubDate>
-      <guid>https://TUUSUARIO.github.io/TUREPO/noticia2.html</guid>
+      <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</guid>
     </item>
 
   </channel>
 </rss>
+
