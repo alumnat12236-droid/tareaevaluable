@@ -9,31 +9,32 @@
               
 
     <!--Noticia principal-->
-    <title>Noticias del Centro</title>
-    <link>https://alumnat12236-droid.github.io/tareaevaluable/</link>
+    <title>Noticias IEDIB</title>
+    <link>https://iedib.net/</link>
     <description>Avisos y noticias del centro educativo</description>
 
     <lastBuildDate>Sun, 15 Feb 2026 12:00:00 GMT</lastBuildDate>
 
     <!--noticia 1-->
     <item>
-      <title>Noticia 1</title>
-      <link>https://alumnat12236-droid.github.io/tareaevaluable/noticia1.html</link>
-      <description>Descripción de la noticia 1</description>
-      <pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
-      <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia1.html</guid>
+      <title>Matrícula extraordinaria para la preparación de la PAU del 2 al 8 de febrero.</title>
+      <link>https://iedib.net/wordpress/?p=4176</link>
+      <description>Si quieres matricularte para la preparación de la PAU, puedes acceder a las instrucciones y al trámite telemático en la siguiente página . El plazo es del 2 al 8 de febrero.</description>
+      <pubDate>Wed, 07 Gen 2026 10:00:00 GMT</pubDate>
+      <guid>https://iedib.net/wordpress/?page_id=91</guid>
     </item>
 
     <!--Noticia 2-->
     <item>
-      <title>Noticia 2</title>
-      <link>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</link>
-      <description>Descripción de la noticia 2</description>
-      <pubDate>Sun, 15 Feb 2026 09:30:00 GMT</pubDate>
+      <title>Los escritorios virtuales IsardVDI llegan al IEDIB: innovación tecnológica para la formación a distancia</title>
+      <link>https://iedib.net/wordpress/?p=5621</link>
+      <description>El proyecto IsardVDI del IEDIB y el CIFP Politécnico de Levante moderniza el acceso a prácticas digitales, facilitando un entorno virtualizado profesional para el alumnado de Formación Profesional.</description>
+      <pubDate>Tue, 16 Dec 2025 09:30:00 GMT</pubDate>
       <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</guid>
     </item>
 
   </channel>
 </rss>
+
 
 
