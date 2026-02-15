@@ -13,6 +13,7 @@
     <title>Noticias IEDIB</title>
     <link>https://iedib.net/</link>
     <description>Avisos y noticias del centro educativo</description>
+    <language> es-ES</language>
 
     <lastBuildDate>Sun, 15 Feb 2026 12:00:00 GMT</lastBuildDate>
 
@@ -21,6 +22,7 @@
       <title>Matrícula extraordinaria para la preparación de la PAU del 2 al 8 de febrero.</title>
       <link>https://iedib.net/wordpress/?p=4176</link>
       <description>Si quieres matricularte para la preparación de la PAU. El plazo es del 2 al 8 de febrero.</description>
+      <author>wp_admin</author>
       <pubDate>Wed, 07 Gen 2026 10:00:00 GMT</pubDate>
       <guid>https://iedib.net/wordpress/?p=4176</guid>
     </item>
@@ -30,12 +32,25 @@
       <title>Los escritorios virtuales IsardVDI llegan al IEDIB: innovación tecnológica para la formación a distancia</title>
       <link>https://iedib.net/wordpress/?p=5621</link>
       <description>El proyecto IsardVDI del IEDIB y el CIFP Politécnico de Levante moderniza el acceso a prácticas digitales, facilitando un entorno virtualizado profesional para el alumnado de Formación Profesional.</description>
+      <author>wp_admin</author>
       <pubDate>Tue, 16 Dec 2025 09:30:00 GMT</pubDate>
       <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</guid>
     </item>
-
+    
+    <!--Noticia 3-->
+    <item>
+      <title>3D Talks! Charla con Pablo Sahuquillo</title>
+      <link>https://iedib.net/wordpress/?p=5530</link>
+      <description>3D Talks! Charla con Pablo Sahuquillo
+Publicado el19 noviembre, 2025por wp_admin
+Este jueves a las 17 horas conversaremos con  Pablo Sahuquillo , diseñador de fondos para animación y desarrollador visual, autor de los backgrounds de las películas  Robot Dreams  (ganadora de un Goya) y  Decorado  (estrado este año). </description>
+      <author>wp_admin</author>
+      <pubDate>Wd, 19 Nov 2025 09:30:00 GMT</pubDate>
+      <guid>https://alumnat12236-droid.github.io/tareaevaluable/noticia2.html</guid>
+    </item>
   </channel>
 </rss>
+
 
 
 
